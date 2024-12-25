@@ -22,7 +22,7 @@ pyenv('Version', 'C:\Users\Shiqin\miniconda3\envs\py310_env\python.EXE');
 ```
 
 ## Test the pretrained model
-Download the pre-trained model and put it in the [matlab_scripts]([matlab_scripts), run the [main.m](matlab_scripts/main) to test the model.
+Download the pre-trained model and put it in the [matlab_scripts](matlab_scripts), run the [main.m](matlab_scripts/main) to test the model.
 
 
 
