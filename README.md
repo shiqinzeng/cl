@@ -17,8 +17,9 @@ conda install pytorch torchvision torchaudio -c pytorch
 
 ## Matlab (2024 version) 
 Switch MATLAB to Use the Compatible Environment: Point MATLAB to the Python executable in the new environment (change to your path):
-```.bash
+```.matlab
 pyenv('Version', 'C:\Users\Shiqin\miniconda3\envs\py310_env\python.EXE');
+setenv('KMP_DUPLICATE_LIB_OK', 'TRUE');
 ```
 
 ## Test the pretrained model
